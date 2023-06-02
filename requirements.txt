@@ -1,4 +1,1 @@
-langchain
-pypdf2
-python-dotenv 
-streamlit
+streamlit==1.23.1
